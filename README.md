@@ -3,7 +3,7 @@
 - 🌱 Software engineer
 - 💞️ I’m looking to collaborate on future fantasy 
 - 📫 How to reach me u can contact through mu insta..
- www.instagram.com btw.mohsinhere
+ www.instagram.com/btw.mohsinhere
 
 <!---
 theycallmemohsin/theycallmemohsin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
